@@ -23,7 +23,7 @@ const corsOptions = {
 };
 
 app.use(cors({
-  origin : "http://localhost:5173"
+  origin : "https://front-end-my-care-a-healthcare-kwsqopr9h.vercel.app"
 }));
 
 // middleware
