@@ -23,7 +23,7 @@ const corsOptions = {
 };
 
 app.use(cors({
-  origin : "https://front-end-my-care-a-healthcare-kwsqopr9h.vercel.app"
+  origin : "https://my-care-a-healthcare-app.vercel.app"
 }));
 
 // middleware
